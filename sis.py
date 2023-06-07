@@ -35,3 +35,9 @@ while True:
 
 
     z = input('Se deseja finalizar o programa digite "s"... ')
+    
+    '''- cadastro de usuários: funcionário, investidor  (lista de objetos)
+- simulações de investimentos: aporte de  R$xxx (calcula-se os juros, rendimentos, taxas... baseado no tempo de investimento)  - previsibilidade dos lucro do investimento (baseado em data de entrada e saída)
+- simulação de investimento com renda variável : aporte de R$ xxxxx (variação diária de juros/taxas)
+- relatório final com as estatísticas dos investimentos por usuário
+- Menu: 1) cadastro, 2) pesquisa (do usuário), 3) alterar, 4)excluir usuário, 5) investimento (5.1. renda fixa, 5.2. renda variável), 6) relatórios'''
